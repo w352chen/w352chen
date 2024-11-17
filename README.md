@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Helen Weixu Chen. I study Computer Science at the University of Waterloo (UW). 
-- 👀 My research intersects human-computer interaction (HCI), artificial intelligence (AI), and computer science (CS) education.
+- 👀 My research intersects human-computer interaction (HCI) with artificial intelligence (AI) and computer science (CS) education.
 - 🧑‍🎓 Currently I am in my study term and am working as an Undergraduate Research Assistant. 
 - 👔 In 2022, I spent 8 months working @ThomsonReuters as a Data & Analytics Engineer Intern.
 - 🌱 I also have a passion for teaching. 
