@@ -11,7 +11,7 @@
 * 📖 CS136L（Elementary Algorithm Design and Data Abstraction) S22
 * 📖 CS116 （Introduction to Computer Science 2) F21/W22
 - 💞️ I’m looking for creative souls to collaborate with.
-- 📫 Please feel free to reach out to me by 📧 helen.weixu.chen@gmail.com
+- 📫 Please feel free to reach out by 📧 helen.weixu.chen@gmail.com
 
 <!---
 w352chen/w352chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
