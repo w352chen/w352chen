@@ -5,6 +5,7 @@
 - 🌱 I also have a passion for teaching. 
 - 👩‍🏫 I have been working for a few CS courses @UW since September 2021 as a full-time and part-time Instructional Support Assistant.
 - 👩‍🏫 Here are the courses that I worked for:
+* 📖 Ethics Workshop F25
 * 📖 MATH642 （Introduction to Computer Science: A Mathematical Perspective) W25
 * 📖 CS138 （Introduction to Data Abstraction and Implementation) W24/W25
 * 📖 CS137 (Programming Principles) F22/F23/F24
